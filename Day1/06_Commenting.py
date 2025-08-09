@@ -9,3 +9,4 @@
 #Something the computer will completely ignore. And I can write code even, as much as I like, but it won't be executed.
 
 # This way I will write notes for myself to explain to me what I was doing.
+# And hopefully help with my memory and make it much easier to comprehend what's going on.
