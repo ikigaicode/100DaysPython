@@ -10,3 +10,7 @@
 
 # This way I will write notes for myself to explain to me what I was doing.
 # And hopefully help with my memory and make it much easier to comprehend what's going on.
+
+
+# Now if I want to highlight the line of text, meaning, make a line of code to be considered by the computer.
+# Using Control key and Forward slash key, both at the same time.
