@@ -3,7 +3,18 @@
 
 print(len("Hello"))
 
-# Primitive Data Types:
+# Primitive Data Types in Python:
 # String, Integer, Float, and Boolean.
 
-#
+#Primitive Data Type: Strings
+print("Hello"[0])
+
+# First character of the word "Hello", putting 0 inside the square brackets.
+# Printing this gives capital H, because it is the first character of the string.
+# Always start counting from zero. The first character or element is always at index 0.
+
+# Subscripting
+print("Hello"[1])
+
+
+
