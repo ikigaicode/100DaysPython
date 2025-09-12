@@ -20,5 +20,7 @@ print("Hello"[1])
 # Susbscripting last character, "o".
 print("Hello"[4])
 
-
+# Subscripting last character "o". Using the other form of -(number index):
+print("Hello"[-1])
+#Give us the same result as before.
 
