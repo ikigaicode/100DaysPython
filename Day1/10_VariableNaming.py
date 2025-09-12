@@ -31,4 +31,4 @@ nimo = "Lisa"
 lenght = len(nomo)
 print(l)
 
-#Expect and error.
+#Expect an error.
