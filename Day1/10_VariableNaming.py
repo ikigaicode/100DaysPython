@@ -15,3 +15,18 @@ print(l)
 
 # Rule 1: make the code readable.
 
+# Rule 2: Name of the variable, has to be one single unit. As in:
+username = "Rosario"
+# and not "user name", without the underscore sign, between the two words.
+
+# Rule 3: we can use numbers in variables, as an example: for the lenght variable, we could have lenght1, lenght2, etc...but never the number in front of variable, as in 1lenght, 2lenght, etc. This generates a syntax error.
+
+#Rule 4: be careful with typos in the variables names. As in nima, and then nomo.
+
+nima = "Heriberto"
+lenght = len(nima)
+print(l)
+
+nimo = "Lisa"
+lenght = len(nomo)
+print(l)
