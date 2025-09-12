@@ -13,3 +13,5 @@ print(l)
 #But is not recommended, because when someone need to check the code, it will be difficult to understand what it is doing.
 # So, we must be more explicit with variables' names.
 
+# Rule 1: make the code readable.
+
