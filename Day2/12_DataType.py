@@ -24,3 +24,7 @@ print("Hello"[4])
 print("Hello"[-1])
 #Give us the same result as before.
 
+# Staring from the end, going to the beginning.
+print("Hello"[-3])
+
+
