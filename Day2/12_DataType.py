@@ -17,4 +17,8 @@ print("Hello"[0])
 print("Hello"[1])
 
 
+# Susbscripting last character, "o".
+print("Hello"[4])
+
+
 
